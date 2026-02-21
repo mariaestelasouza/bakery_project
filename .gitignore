@@ -1,0 +1,32 @@
+# Python
+*.pyc
+__pycache__
+*~
+*.log
+*.pot
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Django-specific
+db.sqlite3
+local_settings.py
+media/
+static/
+
+# IDE-specific (e.g., PyCharm)
+.idea/
+
+# OS-specific
+.DS_Store
+
+
+.env
+# or ignore an entire directory
+env/
