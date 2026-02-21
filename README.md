@@ -1,14 +1,14 @@
 Here’s a **README.md** you can paste into your project.
 
 ````md
-# 🧁 Bakery Project (Django)
+ 🧁 Bakery Project (Django)
 
 This project is a Django app built following the She Codes Django tutorial:
 https://tutorials.shecodes.com.au/django/
 
 ---
 
-## ✅ Prerequisites
+✅ Prerequisites
 - Python 3.10+ (recommended)
 - pip (comes with Python)
 
