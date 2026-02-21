@@ -1,4 +1,3 @@
-Here’s a **README.md** you can paste into your project.
 
 ````md
 # 🧁 Bakery Project (Django)
